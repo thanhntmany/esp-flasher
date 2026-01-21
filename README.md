@@ -4,6 +4,7 @@
 - esp devices flashing tool
 - mass flashing
 - build with tntbuild
+- build deb package for install as bin in debian-like OSes
 
 # Installation
 
